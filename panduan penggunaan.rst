@@ -1,0 +1,23 @@
+Cara menggunakan BRIFill
+
+1. Hasil Rar file BRIFill disimpan di C:\xampp\htdocs
+2. Aktifkan Apache dan MySQL
+3. file database dengan format .sql di import ke phpmyadmin
+4. Akses pada browser http://localhost/templatesurat/ 
+5. Untuk melakukan login, terdapat 3 level user :
+level 1  - admin
+username : admin@gmail.com
+password : 123
+menu yang dapat diakses : manajemen data user
+
+level 2 - cskur
+username : cskur@gmail.com
+password : 123
+menu yang dapat diakses : 
+-surat klaim
+-indexing berkas
+
+level 3 - kaunit
+username : kaunit@gmail.com
+password : 123 
+menu yang dapat diakses : surat klaim 
